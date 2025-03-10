@@ -1,0 +1,510 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="About" xml:space="preserve">
+        <value>关于</value>
+    </data>
+    <data name="Author" xml:space="preserve">
+        <value>作者：</value>
+    </data>
+    <data name="ButtonBackupCurrentConfig" xml:space="preserve">
+        <value>备份当前配置</value>
+    </data>
+    <data name="ButtonCancel" xml:space="preserve">
+        <value>取消</value>
+    </data>
+    <data name="ButtonClearAllMapViewData" xml:space="preserve">
+        <value>清除所有地图视图数据</value>
+    </data>
+    <data name="ButtonClearAllZoneSortData" xml:space="preserve">
+        <value>清除所有区域排序数据</value>
+    </data>
+    <data name="ButtonCopyPointsfromCircleComputer" xml:space="preserve">
+        <value>将这些点复制到编辑器</value>
+    </data>
+    <data name="ButtonCreatePresetfromCircleComputer" xml:space="preserve">
+        <value>使用这些点创建一个新预设</value>
+    </data>
+    <data name="ButtonDelete" xml:space="preserve">
+        <value>删除</value>
+    </data>
+    <data name="ButtonEdit" xml:space="preserve">
+        <value>编辑</value>
+    </data>
+    <data name="ButtonExporttoClipboard" xml:space="preserve">
+        <value>导出至剪贴板</value>
+    </data>
+    <data name="ButtonExportAllPresetstoClipboard" xml:space="preserve">
+        <value>导出所有预设到剪贴板</value>
+    </data>
+    <data name="ButtonImport" xml:space="preserve">
+        <value>导入</value>
+    </data>
+    <data name="ButtonMapView" xml:space="preserve">
+        <value>地图视图</value>
+    </data>
+    <data name="ButtonNo" xml:space="preserve">
+        <value>否</value>
+    </data>
+    <data name="ButtonPlace" xml:space="preserve">
+        <value>放置</value>
+    </data>
+    <data name="ButtonSave" xml:space="preserve">
+        <value>保存</value>
+    </data>
+    <data name="ButtonSaveandClose" xml:space="preserve">
+        <value>保存并关闭</value>
+    </data>
+    <data name="ButtonSaveCurrentWaymarks" xml:space="preserve">
+        <value>保存当前标点</value>
+    </data>
+    <data name="ButtonShowLibrary" xml:space="preserve">
+        <value>显示库</value>
+    </data>
+    <data name="ButtonYes" xml:space="preserve">
+        <value>是</value>
+    </data>
+    <data name="CircleComputerTextAngleOffset" xml:space="preserve">
+        <value>角度偏移(deg)</value>
+    </data>
+    <data name="CircleComputerTextCenterPosition" xml:space="preserve">
+        <value>中心位置</value>
+    </data>
+    <data name="CircleComputerTextInstructions1" xml:space="preserve">
+        <value>这个计算器将用你提供的信息来计算径向对称点(“时钟点”)。然后你可以将这些拖动到预设编辑器中，以计算点替换任何标点，或者你可以使用此窗格底部的按钮。
+</value>
+    </data>
+    <data name="CircleComputerTextNumberofPoints" xml:space="preserve">
+        <value>点的数量</value>
+    </data>
+    <data name="CircleComputerTextRadius" xml:space="preserve">
+        <value>半径(y)</value>
+    </data>
+    <data name="ConfigOptionAllowPresetDragandDrop" xml:space="preserve">
+        <value>允许拖放对预设排序。</value>
+    </data>
+    <data name="ConfigOptionAllowZoneDragandDrop" xml:space="preserve">
+        <value>允许拖放对区域排序。</value>
+    </data>
+    <data name="ConfigOptionAlwaysShowInfoPane" xml:space="preserve">
+        <value>总是显示预设信息面板。</value>
+    </data>
+    <data name="ConfigOptionAttachtoGameWindow" xml:space="preserve">
+        <value>将库窗口连接到游戏的标点窗口。</value>
+    </data>
+    <data name="ConfigOptionAutoloadPresetsfromLibarary" xml:space="preserve">
+        <value>从库中自动加载预设。</value>
+    </data>
+    <data name="ConfigOptionAutosavePresetstoLibrary" xml:space="preserve">
+        <value>自动保存预设到库。</value>
+    </data>
+    <data name="ConfigOptionCategorizePresetsbyZone" xml:space="preserve">
+        <value>按区域分类预设。</value>
+    </data>
+    <data name="ConfigOptionClickingPresetUnselects" xml:space="preserve">
+        <value>点击选中的预设取消选中。</value>
+    </data>
+    <data name="ConfigOptionFilteronCurrentZone" xml:space="preserve">
+        <value>按当前区域筛选</value>
+    </data>
+    <data name="ConfigOptionOpenandClosewithGameWindow" xml:space="preserve">
+        <value>随着游戏的标点窗口打开与关闭标点库。</value>
+    </data>
+    <data name="ConfigOptionShowIDinZoneNames" xml:space="preserve">
+        <value>在区域名称旁显示ID号码。</value>
+    </data>
+    <data name="ConfigOptionShowLibraryZoneFilterSearchBox" xml:space="preserve">
+        <value>在库窗口中显示筛选区域的搜索框。</value>
+    </data>
+    <data name="ConfigOptionShowPresetIndices" xml:space="preserve">
+        <value>在库内显示预设的索引。</value>
+    </data>
+    <data name="ConfigOptionSortZonesDescending" xml:space="preserve">
+        <value>降序排列区域（最新的在顶部）。</value>
+    </data>
+    <data name="ConfigOptionSuppressTextCommandResponses" xml:space="preserve">
+        <value>禁止对文本命令的回应（除了 "{0}"）。</value>
+    </data>
+    <data name="DefaultPresetName" xml:space="preserve">
+        <value>新预设</value>
+    </data>
+    <data name="DefaultPresetNameCircleComputer" xml:space="preserve">
+        <value>从圆形计算器导入</value>
+    </data>
+    <data name="DefaultPresetNameImported" xml:space="preserve">
+        <value>已导入</value>
+    </data>
+    <data name="Discord" xml:space="preserve">
+        <value>Discord:</value>
+    </data>
+    <data name="DiscordThread" xml:space="preserve">
+        <value>Discord Thread</value>
+    </data>
+    <data name="DragandDropPreviewCircleComputerWaymark" xml:space="preserve">
+        <value>复制坐标到...</value>
+    </data>
+    <data name="DragandDropPreviewEditSwapWaymark" xml:space="preserve">
+        <value>交换标点{0}与...</value>
+    </data>
+    <data name="DragandDropPreviewMovetoBottom" xml:space="preserve">
+        <value>&lt;移至底部&gt;</value>
+    </data>
+    <data name="DragandDropPreviewMovetoTop" xml:space="preserve">
+        <value>&lt;移至顶部&gt;</value>
+    </data>
+    <data name="DragandDropPreviewMovingPreset" xml:space="preserve">
+        <value>移动中：</value>
+    </data>
+    <data name="DragandDropPreviewMovingZone" xml:space="preserve">
+        <value>移动中：</value>
+    </data>
+    <data name="EditWindowTextActiveColumnHeader" xml:space="preserve">
+        <value>激活</value>
+    </data>
+    <data name="EditWindowTextName" xml:space="preserve">
+        <value>名称：</value>
+    </data>
+    <data name="EditWindowTextOOBWarningMessage" xml:space="preserve">
+        <value>SE已封禁将标点放到边界外的玩家。请在手动编辑标点坐标时谨慎。</value>
+    </data>
+    <data name="EditWindowTextZoneDropdownLabel" xml:space="preserve">
+        <value>区域：</value>
+    </data>
+    <data name="EditWindowTextZoneSearchLabel" xml:space="preserve">
+        <value>搜索：</value>
+    </data>
+    <data name="GithubIssues" xml:space="preserve">
+        <value>Issues</value>
+    </data>
+    <data name="HeaderExportandBackupOptions" xml:space="preserve">
+        <value>导出/备份选项</value>
+    </data>
+    <data name="HeaderHelpWindowPageCircleCalculator" xml:space="preserve">
+        <value>圆形计算器</value>
+    </data>
+    <data name="HeaderHelpWindowPageCoordinates" xml:space="preserve">
+        <value>坐标</value>
+    </data>
+    <data name="HeaderHelpWindowPageEditing" xml:space="preserve">
+        <value>编辑</value>
+    </data>
+    <data name="HeaderHelpWindowPageGeneral" xml:space="preserve">
+        <value>通用</value>
+    </data>
+    <data name="HeaderHelpWindowPageMaps" xml:space="preserve">
+        <value>地图</value>
+    </data>
+    <data name="HeaderImportOptions" xml:space="preserve">
+        <value>导入选项</value>
+    </data>
+    <data name="HeaderPresets" xml:space="preserve">
+        <value>预设</value>
+    </data>
+    <data name="Help" xml:space="preserve">
+        <value>帮助</value>
+    </data>
+    <data name="HelpAllowZoneDragandDrop" xml:space="preserve">
+        <value>如果启用此项，你可以改变按区域排序的预设文件夹顺序。新的区域将添加到列表底部。这个选项在“按区域分类预设”禁用时不会产生任何效果。</value>
+    </data>
+    <data name="HelpAutoloadpresetsfromLibrary" xml:space="preserve">
+        <value>当你载入区域时，自动加载库中存在的前五个预设。！！！这将没有任何提示地覆写游戏标点栏！！！所以，在确定你已保存了所有你想要保存的数据前，请不要打开它。可以考虑配合下面的自动保存选项使用来减少无意中丢失标点的风险。</value>
+    </data>
+    <data name="WindowTitleWaymarkHelp" xml:space="preserve">
+        <value>标点帮助</value>
+    </data>
+    <data name="WindowTitleWaymarkLibrary" xml:space="preserve">
+        <value>标点库</value>
+    </data>
+    <data name="WindowTitlePresetEditor" xml:space="preserve">
+        <value>预设编辑器</value>
+    </data>
+    <data name="WindowTitlePresetInfo" xml:space="preserve">
+        <value>预设信息</value>
+    </data>
+    <data name="WindowTitleMapView" xml:space="preserve">
+        <value>地图视图</value>
+    </data>
+    <data name="WindowTitleMapViewEditing" xml:space="preserve">
+        <value>地图视图 - 编辑</value>
+    </data>
+    <data name="WindowTitleDebugTools" xml:space="preserve">
+        <value>调试工具</value>
+    </data>
+    <data name="WindowTitleConfig" xml:space="preserve">
+        <value>标点设置</value>
+    </data>
+    <data name="WaymarkStatusUnused" xml:space="preserve">
+        <value>未使用的</value>
+    </data>
+    <data name="Version" xml:space="preserve">
+        <value>版本：</value>
+    </data>
+    <data name="HelpAutosavePresetstoLibrary" xml:space="preserve">
+        <value>在退出任务时，自动将所有占有位置的游戏预设栏复制到库中。</value>
+    </data>
+    <data name="HelpBackupCurrentConfig" xml:space="preserve">
+        <value>将当前配置文件复制到卫月的“pluginConfigs”目录的备份文件夹。</value>
+    </data>
+    <data name="HelpClearAllMapViewData" xml:space="preserve">
+        <value>这将删除所有地图视图的面板/缩放/子地图状态，将每个地图重置为默认状态。</value>
+    </data>
+    <data name="HelpClearAllZoneSortData" xml:space="preserve">
+        <value>这将删除库窗口中所有自定义的区域排序，并将排序重置为默认。</value>
+    </data>
+    <data name="HelpShowIDinZoneNames" xml:space="preserve">
+        <value>在某些地方显示区域/任务的内部内容查找器ID。通常只用于调试。</value>
+    </data>
+    <data name="HelpShowLibraryZoneFilterSearchBox" xml:space="preserve">
+        <value>选中此项时，搜索框将显示在库窗口顶部，以筛选你想要看到的区域。当“按区域分类预设”选项被禁用时不会产生任何效果。</value>
+    </data>
+    <data name="HelpShowPresetIndices" xml:space="preserve">
+        <value>这个的主要用处是让你知道在文本命令中需要使用的预设索引。如果你只使用GUI，你可以一直禁用此选项。</value>
+    </data>
+    <data name="HelpSortZonesDescending" xml:space="preserve">
+        <value>当选中此项时，区域将被从最新到最旧大致排序（SE的排序不是完美的）。当与“允许拖放对区域排序”选项组合时，新区域将被添加到列表的顶部（其它所有区域都在下面且保持不变的顺序）。</value>
+    </data>
+    <data name="HelpWindowTextCircleComputerWarningMessage" xml:space="preserve">
+        <value>SE已封禁将标点放到边界外的玩家。请在使用这个计算器创建或编辑预设时谨慎。</value>
+    </data>
+    <data name="HelpWindowTextCoordinates1" xml:space="preserve">
+        <value>坐标系：</value>
+    </data>
+    <data name="HelpWindowTextCoordinates2" xml:space="preserve">
+        <value>游戏内部使用了右手3D坐标系，X由西向东递增，Y由下向上递增，Z由北向南递增。地图上的坐标系是XZ平面的2D投影，X由西向东递增，Y由北向南递增。请注意显示在聊天链接或地图窗体中显示的坐标已缩放到一个任意值，以及Y轴与Z轴被相互交换。此插件使用游戏的内部坐标系统如下所示：</value>
+    </data>
+    <data name="HelpWindowTextEditing1" xml:space="preserve">
+        <value>点击预设信息窗格中的“编辑”按钮将会打开一个允许你编辑预设的窗口。你可以调整任何可用参数，你可以拖动标点到其他标点上来交换他们的位置。你还可以将帮助窗口中的圆形计算器选项卡中的点拖到编辑器窗口中的标点上，用该计算器中的坐标替换它的坐标。</value>
+    </data>
+    <data name="HelpWindowTextEditing2" xml:space="preserve">
+        <value>编辑器窗口中的更改将在点击“保存”按钮后才被应用。</value>
+    </data>
+    <data name="HelpWindowTextEditingWarningMessage" xml:space="preserve">
+        <value>SE已封禁将标点放到边界外的玩家。请在手动编辑标点坐标时谨慎。</value>
+    </data>
+    <data name="HelpWindowTextGeneral1" xml:space="preserve">
+        <value>此插件列表中的所有预设与游戏预设完全分离。 这将允许你存储无限数量的预设，以及轻松地备份和分享它们，或导入其他人与你共享的预设。</value>
+    </data>
+    <data name="HelpWindowTextGeneral2" xml:space="preserve">
+        <value>在库中选择一个预设将在旁边显示一个窗口，该窗口有预设的相关信息，例如标点标在哪里，以及你可以对该预设采取的操作。</value>
+    </data>
+    <data name="HelpWindowTextGeneral3" xml:space="preserve">
+        <value>如果你想要将库中的预设复制到游戏栏位，请在列表中选择预设，然后按下带有你想要复制到的栏位序号的按钮。如果你想要从游戏列表中导入预设到库里，向下滚动到“导入选项”，然后按下你想要从游戏中导入的栏位按钮。这也是你可以通过粘贴从游戏外导入预设的地方。</value>
+    </data>
+    <data name="HelpWindowTextGeneral4" xml:space="preserve">
+        <value>如果你想要与其他人分享预设，你可以在库中选择预设，然后点击“导出到剪贴板”按钮。</value>
+    </data>
+    <data name="HelpWindowTextGeneral5" xml:space="preserve">
+        <value>插件还允许你直接在场地中放置或保存标点。这些就是“放置”和“保存当前标点”按钮的功能。请注意，仅能在游戏系统允许的区域中保存和放置预设。 在这些任务之外保存预设会导致显示一个未知区域的预设。 试图在此之外放置预设仅会无事发生。</value>
+    </data>
+    <data name="HelpWindowTextGeneral6" xml:space="preserve">
+        <value>预设可以被拖动到想要的地方来重新排序。 默认情况下，库中的任务排序与游戏文件中的排序相同， 并且基本就是在游戏中添加任务的顺序。任务可以被拖放到想要的地方。如果您通过这样做创建自己的排序，新添加的任务将会出现在列表底部。</value>
+    </data>
+    <data name="HelpWindowTextMaps1" xml:space="preserve">
+        <value>“地图视图”窗口显示所选预设的任务所相应的地图。所有放置的标点都会显示在地图上。如果一个区域有多个子地图，你可以在窗口右下角的下拉菜单切换。与你的光标在地图上的位置相对应的世界坐标显示在窗口的右下角。如果你想要理解游戏的内部坐标系，请阅读此帮助窗口的“坐标”选项卡，以及它们与游戏中呈现给玩家的内容之间的关系。</value>
+    </data>
+    <data name="HelpWindowTextMaps2" xml:space="preserve">
+        <value>当编辑预设时，你可以在地图上拖动标点图标来调整他们的位置。当你这样做的时候，坐标读取将反映标点的位置，而不是鼠标的位置。请注意，在地势不平衡的地区不建议以这种方式编辑标点，因为它无法自动调整Y坐标以匹配地形。</value>
+    </data>
+    <data name="HelpWindowTextMaps3" xml:space="preserve">
+        <value>还请注意插件目前无法确定存在哪个标点在哪个子地图，因此所有的标点都会在所有子地图上显示的它们的位置（只要它们在地图的范围内）。对于一些罕见的情况（如e12s），默认子地图不是你进入的区域，所以你需要手动选择正确的子地图。</value>
+    </data>
+    <data name="InfoPaneTextCopytoSlotLabel" xml:space="preserve">
+        <value>复制到栏位：</value>
+    </data>
+    <data name="InfoPaneTextLastModifiedLabel" xml:space="preserve">
+        <value>最后修改时间：{0}</value>
+    </data>
+    <data name="InfoPaneTextPresetInfoLabel" xml:space="preserve">
+        <value>预设信息：</value>
+    </data>
+    <data name="InfoPaneTextUnusedWaymark" xml:space="preserve">
+        <value>未使用的</value>
+    </data>
+    <data name="InfoPaneTextWaymarkColumnHeader" xml:space="preserve">
+        <value>标点</value>
+    </data>
+    <data name="InfoPaneTextZoneLabel" xml:space="preserve">
+        <value>区域：{0}</value>
+    </data>
+    <data name="InfoPaneTextNoPresetSelected" xml:space="preserve">
+        <value>未选择预设。</value>
+    </data>
+    <data name="InfoPaneTextConfirmDeleteLabel" xml:space="preserve">
+        <value>确认删除：</value>
+    </data>
+    <data name="InvalidDataWarning" xml:space="preserve">
+        <value>无效的编辑数据；出了点大问题。 请按“取消”，然后重试。</value>
+    </data>
+    <data name="KoFi" xml:space="preserve">
+        <value>Ko-Fi Tip</value>
+    </data>
+    <data name="LibraryWindowTextZoneSearchLabel" xml:space="preserve">
+        <value>搜索区域</value>
+    </data>
+    <data name="MainWindowTextNoPresetsFound" xml:space="preserve">
+        <value>没有预设匹配当前的筛选条件</value>
+    </data>
+    <data name="MainWindowTextLibraryEmpty" xml:space="preserve">
+        <value>预设库为空！</value>
+    </data>
+    <data name="MainWindowTextImportfromGameSlotLabel" xml:space="preserve">
+        <value>或从游戏栏位导入：</value>
+    </data>
+    <data name="MainWindowTextPresetResourcesLink" xml:space="preserve">
+        <value>从哪寻找可导入的预设</value>
+    </data>
+    <data name="MapWindowTextNoMapsAvailable" xml:space="preserve">
+        <value>此区域没有可用的地图。</value>
+    </data>
+    <data name="MapWindowTextUnnamedSubmapPlaceholder" xml:space="preserve">
+        <value>未命名子地图{0}</value>
+    </data>
+    <data name="MapWindowTextLoadingMaps" xml:space="preserve">
+        <value>正在加载区域地图。</value>
+    </data>
+    <data name="MapWindowTextUnknownZone" xml:space="preserve">
+        <value>未知区域：没有可用的地图。</value>
+    </data>
+    <data name="MapWindowTextNoPresetSelected" xml:space="preserve">
+        <value>未选择预设</value>
+    </data>
+    <data name="PresetInfoErrorZoneName1" xml:space="preserve">
+        <value>获取区域名称时发生错误！</value>
+    </data>
+    <data name="PresetInfoLabelZone" xml:space="preserve">
+        <value>区域：</value>
+    </data>
+    <data name="PresetInfoLabelLastModified" xml:space="preserve">
+        <value>最后修改时间：</value>
+    </data>
+    <data name="Settings" xml:space="preserve">
+        <value>设置</value>
+    </data>
+    <data name="SettingsWindowTextConfirmDeleteLabel" xml:space="preserve">
+        <value>确认删除：</value>
+    </data>
+    <data name="TerminologyZoneSortTypeAlphabetical" xml:space="preserve">
+        <value>按字母排序</value>
+    </data>
+    <data name="TerminologyZoneSortTypeCustom" xml:space="preserve">
+        <value>自定义排序顺序</value>
+    </data>
+    <data name="TerminologyZoneSortTypeBasic" xml:space="preserve">
+        <value>按ID排序</value>
+    </data>
+    <data name="TextBoxPromptImport" xml:space="preserve">
+        <value>在此处粘贴预设，然后点击“导入”。</value>
+    </data>
+    <data name="TextCommandDescription" xml:space="preserve">
+        <value>执行waymark preset命令。使用 "{0}" 获取详细使用信息。</value>
+    </data>
+    <data name="TextCommandResponseHelpSubcommands" xml:space="preserve">
+        <value>有效命令如下：{0}，{1}，{2}，{3}，{4}和{5}。如果没有提供命令，将打开预设库。输入 "{6} &lt;command&gt;" 以获取详细的子命令信息。</value>
+    </data>
+    <data name="TextCommandResponseHelpConfig" xml:space="preserve">
+        <value>打开设置窗口。</value>
+    </data>
+    <data name="TextCommandResponseHelpSlotInfo" xml:space="preserve">
+        <value>将在游戏栏位中保存的数据发送到聊天窗口。 用法："{0} &lt;slot&gt;"。&lt;slot&gt;可以是任何有效的栏位号。</value>
+    </data>
+    <data name="TextCommandResponseHelpPlace" xml:space="preserve">
+        <value>使用指定的名称（如果可能）放置预设。名称前后必须带引号。也可以使用没有引号的预设索引代替。 用法："{0} &lt;name&gt;|&lt;index&gt;"。名称必须完全匹配 （除了案例）。索引可以是任何有效的库预设序号。</value>
+    </data>
+    <data name="TextCommandResponseHelpImport" xml:space="preserve">
+        <value>将游戏的五个预设栏位之一复制到库中。 用法："{0} &lt;slot&gt;"。栏位号可以是任何有效的预设栏位。 由于游戏聊天框中的长度限制，不支持命令行导入格式化预设字符串。</value>
+    </data>
+    <data name="TextCommandResponseHelpExport" xml:space="preserve">
+        <value>根据标记和参数从库中复制预设到指定的游戏栏位*或*剪贴板。 用法："{0} [{1}] [{2}] &lt;slot|index&gt; [slot]"。栏位号可以是任何有效的游戏栏位，索引可以是任何有效的库预设序号。 使用 {3} 标记确定第一个数字是游戏栏位，而不是库索引。使用 {4} 标记令在剪贴板导出的数据包含最后修改时间。</value>
+    </data>
+    <data name="TextCommandResponseHelpExportAll" xml:space="preserve">
+        <value>将库中的所有预设复制到剪贴板，每行一个。如果你想要在导出中包含最后修改的时间戳，请添加 {0}。</value>
+    </data>
+    <data name="TextCommandResponseHelp" xml:space="preserve">
+        <value>使用 "{0}" 打开GUI。使用 "{1}" 查看文本命令列表。</value>
+    </data>
+    <data name="TextCommandResponseExportAllError1" xml:space="preserve">
+        <value>尝试复制预设到剪贴板时发生未知错误。</value>
+    </data>
+    <data name="TextCommandResponseExportAllSuccess1" xml:space="preserve">
+        <value>标点库已复制到剪贴板。</value>
+    </data>
+    <data name="TextCommandResponseExportError8" xml:space="preserve">
+        <value>尝试导出预设时发生未知错误。</value>
+    </data>
+    <data name="TextCommandResponseExportError7" xml:space="preserve">
+        <value>提供的作为目标的游戏栏位序号（{0}）无效。</value>
+    </data>
+    <data name="TextCommandResponseExportError6" xml:space="preserve">
+        <value>无法写入到游戏栏位{0}！</value>
+    </data>
+    <data name="TextCommandResponseExportSuccess2" xml:space="preserve">
+        <value>预设已导出到游戏栏位{0}。</value>
+    </data>
+    <data name="TextCommandResponseExportError5" xml:space="preserve">
+        <value>提供的库索引（{0}）无效。</value>
+    </data>
+    <data name="TextCommandResponseExportError4" xml:space="preserve">
+        <value>提供的需导出的游戏栏位序号（{0}）无效。</value>
+    </data>
+    <data name="TextCommandResponseExportError2" xml:space="preserve">
+        <value>提供的游戏栏位序号（{0}）无效。</value>
+    </data>
+    <data name="TextCommandResponseExportError3" xml:space="preserve">
+        <value>提供的库索引（{0}）无效。</value>
+    </data>
+    <data name="TextCommandResponseExportError1" xml:space="preserve">
+        <value>没有提供栏位或索引序号。</value>
+    </data>
+    <data name="TextCommandResponseExportSuccess1" xml:space="preserve">
+        <value>已复制到剪贴板。</value>
+    </data>
+    <data name="TextCommandResponseImportError1" xml:space="preserve">
+        <value>试图读取游戏标点数据时发生未知错误。</value>
+    </data>
+    <data name="TextCommandResponseImportError2" xml:space="preserve">
+        <value>无法读取游戏标点数据。这可能意味着插件需要更新才能在新版本的FFXIV中使用。</value>
+    </data>
+    <data name="TextCommandResponseImportError3" xml:space="preserve">
+        <value>无效的游戏栏位序号："{0}"。</value>
+    </data>
+    <data name="TextCommandResponseImportSuccess1" xml:space="preserve">
+        <value>导入游戏预设 {0} 作为库预设 {1}。</value>
+    </data>
+    <data name="TextCommandResponsePlaceError1" xml:space="preserve">
+        <value>找不到预设 "{0}"。</value>
+    </data>
+    <data name="TextCommandResponsePlaceError2" xml:space="preserve">
+        <value>无效的预设序号 "{0}"。</value>
+    </data>
+    <data name="TextCommandResponsePlaceError3" xml:space="preserve">
+        <value>放置预设 {0} 时发生未知错误。</value>
+    </data>
+    <data name="TextCommandResponsePlaceError4" xml:space="preserve">
+        <value>无效的预设序号 "{0}"。</value>
+    </data>
+    <data name="TextCommandResponsePlaceError5" xml:space="preserve">
+        <value>无法放置预设。这可能意味着插件需要更新才能在新版本的FFXIV中使用。</value>
+    </data>
+    <data name="TextCommandResponseSlotInfoSuccess1" xml:space="preserve">
+        <value>栏位 {0} 内容：{1}</value>
+    </data>
+    <data name="TextCommandResponseSlotInfoError1" xml:space="preserve">
+        <value>试图读取游戏标点数据时发生未知错误。</value>
+    </data>
+    <data name="TextCommandResponseSlotInfoError2" xml:space="preserve">
+        <value>无法读取游戏的标点数据。</value>
+    </data>
+    <data name="TextCommandResponseSlotInfoError3" xml:space="preserve">
+        <value>提供的游戏栏位序号无效。</value>
+    </data>
+</root>

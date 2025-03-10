@@ -1,9 +1,9 @@
 {
-  "Author": "Infi, PunishedPineapple",
-  "Name": "Waymark Preset Plugin",
-  "Punchline": "Improved Waymark Management",
-  "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
-  "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
+  "Author": "Infi, PunishedPineapple, cyf5119(translator)",
+  "Name": "Waymark Preset Plugin CN",
+  "Punchline": "提供场地标点管理",
+  "Description": "允许你保存、编辑、放置、导入、导出以及预览无限数量的场地标点预设。",
+  "RepoUrl": "https://github.com/cyf5119/WaymarkPresetPlugin",
   "Tags": [
     "Waymark",
     "Marker",

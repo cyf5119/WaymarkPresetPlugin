@@ -3,10 +3,10 @@
 		<TargetFramework>net8.0-windows</TargetFramework>
 		<Platforms>AnyCPU</Platforms>
 		<Version>1.5.3.3</Version>
-		<Authors>Infi, PunishedPineapple</Authors>
+		<Authors>Infi, PunishedPineapple, cyf5119(translator)</Authors>
 		<Product />
 		<Copyright>Copyright @ Infi, PunishedPineapple 2020-2025</Copyright>
-		<RepositoryUrl>https://github.com/Infiziert90/WaymarkPresetPlugin</RepositoryUrl>
+		<RepositoryUrl>https://github.com/cyf5119/WaymarkPresetPlugin</RepositoryUrl>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -27,7 +27,7 @@
 	</ItemGroup>
 
 	<PropertyGroup>
-		<DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
+		<DalamudLibPath>$(appdata)\XIVLauncherCN\addon\Hooks\dev\</DalamudLibPath>
 		<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 	</PropertyGroup>
 
